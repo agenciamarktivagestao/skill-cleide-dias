@@ -1,0 +1,25 @@
+{
+ "source": "/Users/agenciamarktiva/Downloads/Cleide Dias/REFERENCIAS/trilha_6A5B.MOV",
+ "music_s": 14.87,
+ "target_s": 27.367,
+ "joins": [
+  {
+   "de_s": 12.811,
+   "volta_para_s": 2.866,
+   "repete_s": 9.944,
+   "nota": 1.777,
+   "forma_de_onda": 0.817
+  },
+  {
+   "de_s": 6.816,
+   "volta_para_s": 4.287,
+   "repete_s": 2.529,
+   "nota": 1.777,
+   "forma_de_onda": 0.799
+  }
+ ],
+ "compasso_s": 2.512,
+ "mode": "2 emenda(s)",
+ "result_s": 27.344,
+ "lead_silence_s": 0.18
+}

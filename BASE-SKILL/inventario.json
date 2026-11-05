@@ -1,0 +1,1329 @@
+[
+ {
+  "arquivo": ".DS_Store",
+  "status": "excluido",
+  "motivo": "Metadado, cache ou log de execução",
+  "bytes": 16388,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "AGENTS.md",
+  "status": "adaptado",
+  "motivo": "Instruções da pasta de trabalho; o conteúdo foi passado para README.md, MODELOS CLEIDE/LEIA-ME.md, o LEIA-ME.md do padrão 1 e BASE-SKILL/ORIENTACOES.md",
+  "bytes": 8993,
+  "sha256": "4527da452db24c482301eb4b042ca254b69a199fe878f8b4776f553680a13b20",
+  "destino": [
+   "README.md",
+   "MODELOS CLEIDE/LEIA-ME.md",
+   "MODELOS CLEIDE/PADRAO 1 - legenda palavra a palavra/LEIA-ME.md",
+   "BASE-SKILL/ORIENTACOES.md"
+  ]
+ },
+ {
+  "arquivo": "CLAUDE.md",
+  "status": "adaptado",
+  "motivo": "Instruções da pasta de trabalho; o conteúdo foi passado para README.md, MODELOS CLEIDE/LEIA-ME.md, o LEIA-ME.md do padrão 1 e BASE-SKILL/ORIENTACOES.md",
+  "bytes": 8993,
+  "sha256": "f470069da48c530c462124eb003e60f9d463c54e38a43c3d5995289476e5d1bc",
+  "destino": [
+   "README.md",
+   "MODELOS CLEIDE/LEIA-ME.md",
+   "MODELOS CLEIDE/PADRAO 1 - legenda palavra a palavra/LEIA-ME.md",
+   "BASE-SKILL/ORIENTACOES.md"
+  ]
+ },
+ {
+  "arquivo": "ESTILO.md",
+  "status": "adaptado",
+  "motivo": "Reorganizado no formato do ESTILO FIRE.md, com as regras preservadas e os caminhos atualizados",
+  "bytes": 9714,
+  "sha256": "34021b6346e7a13e4a348f6904ba30ba07b48852657981bc0cf47f747b9fa415",
+  "destino": [
+   "ESTILO CLEIDE.md"
+  ]
+ },
+ {
+  "arquivo": "LEIA-ME.md",
+  "status": "adaptado",
+  "motivo": "Instruções da pasta de trabalho; o conteúdo foi passado para README.md, MODELOS CLEIDE/LEIA-ME.md, o LEIA-ME.md do padrão 1 e BASE-SKILL/ORIENTACOES.md",
+  "bytes": 2192,
+  "sha256": "10c822250e5adcc49b2d932ae9202da76c5524962c083ad1ccaf895df73736ab",
+  "destino": [
+   "README.md",
+   "MODELOS CLEIDE/LEIA-ME.md",
+   "MODELOS CLEIDE/PADRAO 1 - legenda palavra a palavra/LEIA-ME.md",
+   "BASE-SKILL/ORIENTACOES.md"
+  ]
+ },
+ {
+  "arquivo": "01 ENVIAR AQUI/.DS_Store",
+  "status": "excluido",
+  "motivo": "Metadado, cache ou log de execução",
+  "bytes": 6148,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "01 ENVIAR AQUI/B860.MOV",
+  "status": "excluido",
+  "motivo": "Mídia bruta, renderização ou intermediário; fora da base documental",
+  "bytes": 140711433,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "01 ENVIAR AQUI/_coloque os videos aqui.txt",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 71,
+  "sha256": "ed8b785100ee632965c5ac5ba7891e1d468cafbf35a0cca2746149047e371fd8",
+  "destino": [
+   "01 ENVIAR AQUI/_coloque os videos aqui.txt"
+  ]
+ },
+ {
+  "arquivo": "02 FINALIZADOS/_videos prontos.txt",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 46,
+  "sha256": "f682d8953ebc7ef7cd65867442a774d46f69f3efc83d1a5ae89d829c02fdce92",
+  "destino": [
+   "02 FINALIZADOS/_videos prontos.txt"
+  ]
+ },
+ {
+  "arquivo": "MODELO/.DS_Store",
+  "status": "excluido",
+  "motivo": "Metadado, cache ou log de execução",
+  "bytes": 6148,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "MODELO/brand.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 16430,
+  "sha256": "c5a340c5369bd331f5a9e812dbc5101388479c60a11893cff86bf727b27df296",
+  "destino": [
+   "MODELOS CLEIDE/PADRAO 1 - legenda palavra a palavra/brand.py"
+  ]
+ },
+ {
+  "arquivo": "MODELO/build.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 29429,
+  "sha256": "0bf1931883321097706ac44aa60f726b858c3fb43a7eace3efce3a3c2260ae62",
+  "destino": [
+   "MODELOS CLEIDE/PADRAO 1 - legenda palavra a palavra/build.py"
+  ]
+ },
+ {
+  "arquivo": "MODELO/edl_exemplo.json",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 3775,
+  "sha256": "47ac045c92fc2ebfafea9c6469aa628fb553d1f7e129ecf3232eb8370c55c4a9",
+  "destino": [
+   "MODELOS CLEIDE/PADRAO 1 - legenda palavra a palavra/edl_exemplo.json"
+  ]
+ },
+ {
+  "arquivo": "MODELO/frames.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 1438,
+  "sha256": "2a05c6325d2aa5cb614c5a73712f75da068975c850e981c82f2b399b4b153a22",
+  "destino": [
+   "MODELOS CLEIDE/PADRAO 1 - legenda palavra a palavra/frames.py"
+  ]
+ },
+ {
+  "arquivo": "MODELO/make_cuts.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 4708,
+  "sha256": "f196bb412cafbe78a5b918c88bd83e6b4ad81f2cc15355bb56a6f8f249659e88",
+  "destino": [
+   "MODELOS CLEIDE/PADRAO 1 - legenda palavra a palavra/make_cuts.py"
+  ]
+ },
+ {
+  "arquivo": "MODELO/music_extend.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 8340,
+  "sha256": "db448efd759ac80d2c821214e5c8d73bd2a62ea5a3c0f7cd42a864837dc2fe4d",
+  "destino": [
+   "MODELOS CLEIDE/PADRAO 1 - legenda palavra a palavra/music_extend.py"
+  ]
+ },
+ {
+  "arquivo": "MODELO/person.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 7893,
+  "sha256": "fd3d6616227454a9f81adc627685fe4198d67be736c0b89f90a106ac57dedaf4",
+  "destino": [
+   "MODELOS CLEIDE/PADRAO 1 - legenda palavra a palavra/person.py"
+  ]
+ },
+ {
+  "arquivo": "MODELO/selfeval.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 11036,
+  "sha256": "0daa16849221cda343f1b0207abff0b4aa2f05d8f44b1cd9214b38fc3f471691",
+  "destino": [
+   "MODELOS CLEIDE/PADRAO 1 - legenda palavra a palavra/selfeval.py"
+  ]
+ },
+ {
+  "arquivo": "MODELO/sound.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 11696,
+  "sha256": "5c76933e6e2147fb8dbaa5806dc8fe3b4fb13b9f5facf994f8c89817efb417bb",
+  "destino": [
+   "MODELOS CLEIDE/PADRAO 1 - legenda palavra a palavra/sound.py"
+  ]
+ },
+ {
+  "arquivo": "MODELO/transcribe.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 7411,
+  "sha256": "045ec053b8e68b809ae2d897e6807240f0f8a884a4ac2e0e6d3a7fc6bee9326a",
+  "destino": [
+   "MODELOS CLEIDE/PADRAO 1 - legenda palavra a palavra/transcribe.py"
+  ]
+ },
+ {
+  "arquivo": "MODELO/animations/captions_cleide.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 25510,
+  "sha256": "12c4167206607806e8eb26e56ad3380b22d1315c6e4c04bb41cb41cc01c7d495",
+  "destino": [
+   "MODELOS CLEIDE/PADRAO 1 - legenda palavra a palavra/animations/captions_cleide.py"
+  ]
+ },
+ {
+  "arquivo": "MODELO/animations/cleide_cards.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 13947,
+  "sha256": "45384a2bf54f9cd280a1448ebae5f2c839ae1f077794eb179689da1f9710e7b4",
+  "destino": [
+   "MODELOS CLEIDE/PADRAO 1 - legenda palavra a palavra/animations/cleide_cards.py"
+  ]
+ },
+ {
+  "arquivo": "MODELO/assets/.DS_Store",
+  "status": "excluido",
+  "motivo": "Metadado, cache ou log de execução",
+  "bytes": 6148,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "MODELO/assets/margem_seguranca.jpeg",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 51038,
+  "sha256": "e416d18be40742528bd730a040471399298ffe00471937e83508416df865437c",
+  "destino": [
+   "MODELOS CLEIDE/PADRAO 1 - legenda palavra a palavra/assets/margem_seguranca.jpeg"
+  ]
+ },
+ {
+  "arquivo": "MODELO/assets/safe_zone_mask.png",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 18391,
+  "sha256": "8d5e01351b28bf37bf4094d183c53a7474d42f12f8b9340bd774e4a21d4cd948",
+  "destino": [
+   "MODELOS CLEIDE/PADRAO 1 - legenda palavra a palavra/assets/safe_zone_mask.png"
+  ]
+ },
+ {
+  "arquivo": "MODELO/assets/fonts/Prompt-Black.ttf",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 176388,
+  "sha256": "4fbb63f90ce9ea4214461942b521b13f6d2f7194a67de848363d829c3fdf3e66",
+  "destino": [
+   "MODELOS CLEIDE/PADRAO 1 - legenda palavra a palavra/assets/fonts/Prompt-Black.ttf"
+  ]
+ },
+ {
+  "arquivo": "MODELO/assets/fonts/Prompt-BlackItalic.ttf",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 199068,
+  "sha256": "b1b27215efa6a451c2a1549c5de4c96bb389cf89e86921b3ee488ddb6702e09a",
+  "destino": [
+   "MODELOS CLEIDE/PADRAO 1 - legenda palavra a palavra/assets/fonts/Prompt-BlackItalic.ttf"
+  ]
+ },
+ {
+  "arquivo": "MODELO/assets/fonts/Prompt-Bold.ttf",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 178804,
+  "sha256": "02813ca4f93c1df27e271f10fef3db6e34e66751ae1f4a3ed82ae06cb20150ea",
+  "destino": [
+   "MODELOS CLEIDE/PADRAO 1 - legenda palavra a palavra/assets/fonts/Prompt-Bold.ttf"
+  ]
+ },
+ {
+  "arquivo": "MODELO/assets/fonts/Prompt-BoldItalic.ttf",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 186428,
+  "sha256": "d1c26068cd1291d238c04a064e169ce867315aab256bf7bd12cbe0969bb36b3a",
+  "destino": [
+   "MODELOS CLEIDE/PADRAO 1 - legenda palavra a palavra/assets/fonts/Prompt-BoldItalic.ttf"
+  ]
+ },
+ {
+  "arquivo": "MODELO/assets/fonts/Prompt-ExtraBold.ttf",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 176172,
+  "sha256": "f19ebea740940d6c6eb080d5ede1c78e5e68bd5b1faa34efbac251bb84740100",
+  "destino": [
+   "MODELOS CLEIDE/PADRAO 1 - legenda palavra a palavra/assets/fonts/Prompt-ExtraBold.ttf"
+  ]
+ },
+ {
+  "arquivo": "MODELO/assets/fonts/Prompt-ExtraBoldItalic.ttf",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 186668,
+  "sha256": "23560ab8e908c1041befa0ac6873fbaa710de6d0ae21bc60c5b2fdedd83eeb86",
+  "destino": [
+   "MODELOS CLEIDE/PADRAO 1 - legenda palavra a palavra/assets/fonts/Prompt-ExtraBoldItalic.ttf"
+  ]
+ },
+ {
+  "arquivo": "MODELO/assets/fonts/Prompt-Medium.ttf",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 176444,
+  "sha256": "6a42451be692eba473c639f4bcdc6c6d9160a3d632319a64287e3ed1fae15d6b",
+  "destino": [
+   "MODELOS CLEIDE/PADRAO 1 - legenda palavra a palavra/assets/fonts/Prompt-Medium.ttf"
+  ]
+ },
+ {
+  "arquivo": "MODELO/assets/fonts/Prompt-OFL.txt",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 4452,
+  "sha256": "1d08c63944e639bbfe8a1b81e3c6a63836806c126b3573b9cda0db83fd27ffe9",
+  "destino": [
+   "MODELOS CLEIDE/PADRAO 1 - legenda palavra a palavra/assets/fonts/Prompt-OFL.txt"
+  ]
+ },
+ {
+  "arquivo": "MODELO/assets/fonts/Prompt-Regular.ttf",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 168932,
+  "sha256": "dbd497803cec3caffbc6b7f599ca6fed8beea0ed7e0ad1e098130c5ebbc4fd42",
+  "destino": [
+   "MODELOS CLEIDE/PADRAO 1 - legenda palavra a palavra/assets/fonts/Prompt-Regular.ttf"
+  ]
+ },
+ {
+  "arquivo": "MODELO/assets/fonts/Prompt-SemiBold.ttf",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 175300,
+  "sha256": "3285c9e6a4ebc480a6476a1a26b44d6eb0f9874025fa96e42afd52172b7f02b9",
+  "destino": [
+   "MODELOS CLEIDE/PADRAO 1 - legenda palavra a palavra/assets/fonts/Prompt-SemiBold.ttf"
+  ]
+ },
+ {
+  "arquivo": "MODELO/assets/fonts/Prompt-SemiBoldItalic.ttf",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 185108,
+  "sha256": "f01838c433f60813dfbdcd7f2c935169011298f0d621c318ca8e352d776c8354",
+  "destino": [
+   "MODELOS CLEIDE/PADRAO 1 - legenda palavra a palavra/assets/fonts/Prompt-SemiBoldItalic.ttf"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/.DS_Store",
+  "status": "excluido",
+  "motivo": "Metadado, cache ou log de execução",
+  "bytes": 12292,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "PROJETOS/_um projeto por video.txt",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 83,
+  "sha256": "c358a66549caf5ae3dac28dca37a659556683a3430db19fdd7a6fe78ba9f1fc3",
+  "destino": [
+   "PROJETOS/_um projeto por video.txt"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/C8155.MOV",
+  "status": "excluido",
+  "motivo": "Mídia bruta, renderização ou intermediário; fora da base documental",
+  "bytes": 115725822,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/base.key",
+  "status": "excluido",
+  "motivo": "Metadado, cache ou log de execução",
+  "bytes": 32,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/base.mkv",
+  "status": "excluido",
+  "motivo": "Mídia bruta, renderização ou intermediário; fora da base documental",
+  "bytes": 209471754,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/bboxes.json",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 2777,
+  "sha256": "520ea819813e19839ed4429b59b33935b59e8e6a4b088f89df9e1f91b0d29354",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/bboxes.json"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/brand.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 16463,
+  "sha256": "a1be721d1cdf60d7964d9aedbcc99999c58b2826cdd0474a38385d30f52f0e14",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/brand.py"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/build.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 27623,
+  "sha256": "51ace8c57c7bd09d0a434c1712dcc162041cbce28b3dd7638c73305ba2d9300f",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/build.py"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/captions.mov",
+  "status": "excluido",
+  "motivo": "Mídia bruta, renderização ou intermediário; fora da base documental",
+  "bytes": 33005930,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/captions_sfx.json",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 120,
+  "sha256": "8b27fae5a5bf3713aeca6a56935bab6f67b0f6654d4773edb8796683b1d10685",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/captions_sfx.json"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/card_edges.jpg",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 521378,
+  "sha256": "b174589b8ad89169111d1d887d5beb1dbcb8ece4c31383ad2a98a0b23d99fcb4",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/card_edges.jpg"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/contact.jpg",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 603532,
+  "sha256": "353d8f3cd815cb71d4ce01b21c98d4c5761e0c8832f722109741d8d674bff129",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/contact.jpg"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/edl.json",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 2467,
+  "sha256": "5cee4da48af4e70dcbb34808f51f629d6f8ed5d8610efaca20eeee3b212a3639",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/edl.json"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/frames.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 1438,
+  "sha256": "2a05c6325d2aa5cb614c5a73712f75da068975c850e981c82f2b399b4b153a22",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/frames.py"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/make_cuts.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 4663,
+  "sha256": "031d75756a68150240e5fa65c9be486e0ddcd8d9219f1e14cf670c9ced6f4790",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/make_cuts.py"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/mix.wav",
+  "status": "excluido",
+  "motivo": "Áudio específico de projeto; fora da base documental",
+  "bytes": 8371302,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/mix_raw.wav",
+  "status": "excluido",
+  "motivo": "Áudio específico de projeto; fora da base documental",
+  "bytes": 8371302,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/person.json",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 18020,
+  "sha256": "a0bb4052d6cef09dd8b6d658f6887e135297d3a88318ab982b75914c9a3845e6",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/person.json"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/person.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 7063,
+  "sha256": "368eee915765e0ddb44f6ec4ba546e44a91dbcae393762b2c8d622754155d41c",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/person.py"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/preview.mp4",
+  "status": "excluido",
+  "motivo": "Mídia bruta, renderização ou intermediário; fora da base documental",
+  "bytes": 33815959,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/project.md",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 3143,
+  "sha256": "d94013fb251126c411262a809ab2e9cc82f7e3006dca2c235e1a78f5bea2747e",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/project.md"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/selfeval.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 11036,
+  "sha256": "0daa16849221cda343f1b0207abff0b4aa2f05d8f44b1cd9214b38fc3f471691",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/selfeval.py"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/sound.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 11696,
+  "sha256": "5c76933e6e2147fb8dbaa5806dc8fe3b4fb13b9f5facf994f8c89817efb417bb",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/sound.py"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/transcribe.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 7411,
+  "sha256": "045ec053b8e68b809ae2d897e6807240f0f8a884a4ac2e0e6d3a7fc6bee9326a",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/transcribe.py"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/transcript.json",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 4965,
+  "sha256": "99fb400fc1889f42316ccfca1525a10f5b57ef2ecf4133e3523fd9d7d923cb3f",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/transcript.json"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/transcript.txt",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 444,
+  "sha256": "bb2e2f4a5a310bee1f3f43edeb8847e356fd7e24efb5ca71ba5d65e78290453a",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/transcript.txt"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/animations/captions_cleide.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 23999,
+  "sha256": "40735466e87da4157714abf11e8ada2219c95448fce4fd8f17228dfc26e0252b",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/animations/captions_cleide.py"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/animations/cleide_cards.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 17781,
+  "sha256": "c916c581ef11ca7668b0f9ff0f3b28e6ac3dc948f0843330d61a1567340eae15",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/animations/cleide_cards.py"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/assets/.DS_Store",
+  "status": "excluido",
+  "motivo": "Metadado, cache ou log de execução",
+  "bytes": 6148,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/assets/margem_seguranca.jpeg",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 51038,
+  "sha256": "e416d18be40742528bd730a040471399298ffe00471937e83508416df865437c",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/assets/margem_seguranca.jpeg"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/assets/safe_zone_mask.png",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 18391,
+  "sha256": "8d5e01351b28bf37bf4094d183c53a7474d42f12f8b9340bd774e4a21d4cd948",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/assets/safe_zone_mask.png"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/assets/fonts/Prompt-Black.ttf",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 176388,
+  "sha256": "4fbb63f90ce9ea4214461942b521b13f6d2f7194a67de848363d829c3fdf3e66",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/assets/fonts/Prompt-Black.ttf"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/assets/fonts/Prompt-BlackItalic.ttf",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 199068,
+  "sha256": "b1b27215efa6a451c2a1549c5de4c96bb389cf89e86921b3ee488ddb6702e09a",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/assets/fonts/Prompt-BlackItalic.ttf"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/assets/fonts/Prompt-Bold.ttf",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 178804,
+  "sha256": "02813ca4f93c1df27e271f10fef3db6e34e66751ae1f4a3ed82ae06cb20150ea",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/assets/fonts/Prompt-Bold.ttf"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/assets/fonts/Prompt-BoldItalic.ttf",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 186428,
+  "sha256": "d1c26068cd1291d238c04a064e169ce867315aab256bf7bd12cbe0969bb36b3a",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/assets/fonts/Prompt-BoldItalic.ttf"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/assets/fonts/Prompt-ExtraBold.ttf",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 176172,
+  "sha256": "f19ebea740940d6c6eb080d5ede1c78e5e68bd5b1faa34efbac251bb84740100",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/assets/fonts/Prompt-ExtraBold.ttf"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/assets/fonts/Prompt-ExtraBoldItalic.ttf",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 186668,
+  "sha256": "23560ab8e908c1041befa0ac6873fbaa710de6d0ae21bc60c5b2fdedd83eeb86",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/assets/fonts/Prompt-ExtraBoldItalic.ttf"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/assets/fonts/Prompt-Medium.ttf",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 176444,
+  "sha256": "6a42451be692eba473c639f4bcdc6c6d9160a3d632319a64287e3ed1fae15d6b",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/assets/fonts/Prompt-Medium.ttf"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/assets/fonts/Prompt-OFL.txt",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 4452,
+  "sha256": "1d08c63944e639bbfe8a1b81e3c6a63836806c126b3573b9cda0db83fd27ffe9",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/assets/fonts/Prompt-OFL.txt"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/assets/fonts/Prompt-Regular.ttf",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 168932,
+  "sha256": "dbd497803cec3caffbc6b7f599ca6fed8beea0ed7e0ad1e098130c5ebbc4fd42",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/assets/fonts/Prompt-Regular.ttf"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/assets/fonts/Prompt-SemiBold.ttf",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 175300,
+  "sha256": "3285c9e6a4ebc480a6476a1a26b44d6eb0f9874025fa96e42afd52172b7f02b9",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/assets/fonts/Prompt-SemiBold.ttf"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/assets/fonts/Prompt-SemiBoldItalic.ttf",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 185108,
+  "sha256": "f01838c433f60813dfbdcd7f2c935169011298f0d621c318ca8e352d776c8354",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/assets/fonts/Prompt-SemiBoldItalic.ttf"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/cards/00_leak.mov",
+  "status": "excluido",
+  "motivo": "Mídia bruta, renderização ou intermediário; fora da base documental",
+  "bytes": 1004627,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/cards/01_pills.mov",
+  "status": "excluido",
+  "motivo": "Mídia bruta, renderização ou intermediário; fora da base documental",
+  "bytes": 5552651,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/cards/02_screen.mov",
+  "status": "excluido",
+  "motivo": "Mídia bruta, renderização ou intermediário; fora da base documental",
+  "bytes": 22194214,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/cards/03_leak.mov",
+  "status": "excluido",
+  "motivo": "Mídia bruta, renderização ou intermediário; fora da base documental",
+  "bytes": 1004627,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/cards/04_end.mov",
+  "status": "excluido",
+  "motivo": "Mídia bruta, renderização ou intermediário; fora da base documental",
+  "bytes": 14540255,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/cards/index.json",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 1380,
+  "sha256": "1e0c519c7310cbcd334152a6e717acc1e8a1e285f7922dd750560befa27af33d",
+  "destino": [
+   "PROJETOS/2026-11-04 C8155 noiva espaco e decoracao/edit/cards/index.json"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/.DS_Store",
+  "status": "excluido",
+  "motivo": "Metadado, cache ou log de execução",
+  "bytes": 8196,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/base.key",
+  "status": "excluido",
+  "motivo": "Metadado, cache ou log de execução",
+  "bytes": 32,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/base.mkv",
+  "status": "excluido",
+  "motivo": "Mídia bruta, renderização ou intermediário; fora da base documental",
+  "bytes": 164485222,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/bboxes.json",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 2172,
+  "sha256": "f3af8e2dcaf0c3186c739e6ed15631487f1f6f8523aba39cb120dc3630130df2",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/bboxes.json"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/brand.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 16430,
+  "sha256": "c5a340c5369bd331f5a9e812dbc5101388479c60a11893cff86bf727b27df296",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/brand.py"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/build.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 29429,
+  "sha256": "0bf1931883321097706ac44aa60f726b858c3fb43a7eace3efce3a3c2260ae62",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/build.py"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/captions.mov",
+  "status": "excluido",
+  "motivo": "Mídia bruta, renderização ou intermediário; fora da base documental",
+  "bytes": 43181741,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/captions_sfx.json",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 121,
+  "sha256": "f7e18541b0c349aa9cc71939895790650a81e5eacab42ba719deb9e57bfe6edc",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/captions_sfx.json"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/card_edges.jpg",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 536876,
+  "sha256": "4f8a69bcfb76e00bebe354117d1dcdeb10dbd84bd097010132cc23c2331937c3",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/card_edges.jpg"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/contact.jpg",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 889333,
+  "sha256": "fec1948eedc6e64b7999ebf1f7e826b6f05abc86d79245e14b77d83500ae9dae",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/contact.jpg"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/edl.json",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 3109,
+  "sha256": "ce72fe93644aa98c19da16461adde3493f63f93c9acde20e30d02dff97450d1e",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/edl.json"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/edl_v1.json",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 3109,
+  "sha256": "ce72fe93644aa98c19da16461adde3493f63f93c9acde20e30d02dff97450d1e",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/edl_v1.json"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/frames.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 1438,
+  "sha256": "2a05c6325d2aa5cb614c5a73712f75da068975c850e981c82f2b399b4b153a22",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/frames.py"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/make_cuts.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 4708,
+  "sha256": "f196bb412cafbe78a5b918c88bd83e6b4ad81f2cc15355bb56a6f8f249659e88",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/make_cuts.py"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/mix.wav",
+  "status": "excluido",
+  "motivo": "Áudio específico de projeto; fora da base documental",
+  "bytes": 7881702,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/mix_raw.wav",
+  "status": "excluido",
+  "motivo": "Áudio específico de projeto; fora da base documental",
+  "bytes": 7881702,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/music_ext.json",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 475,
+  "sha256": "d67ef0a011ae9633bcce11c41385f98b9dfe2e2617d2d16a65771c37768bffd3",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/music_ext.json"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/music_ext.wav",
+  "status": "excluido",
+  "motivo": "Áudio específico de projeto; fora da base documental",
+  "bytes": 7875126,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/music_ext.wav.key",
+  "status": "excluido",
+  "motivo": "Metadado, cache ou log de execução",
+  "bytes": 98,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/music_extend.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 8340,
+  "sha256": "db448efd759ac80d2c821214e5c8d73bd2a62ea5a3c0f7cd42a864837dc2fe4d",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/music_extend.py"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/person.json",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 11138,
+  "sha256": "38b7dc258d277a77bee9de2a4a0a6c29c4503222900c0001b33946512487dd95",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/person.json"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/person.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 7893,
+  "sha256": "fd3d6616227454a9f81adc627685fe4198d67be736c0b89f90a106ac57dedaf4",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/person.py"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/preview.mp4",
+  "status": "excluido",
+  "motivo": "Mídia bruta, renderização ou intermediário; fora da base documental",
+  "bytes": 32781242,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/preview_v1.mp4",
+  "status": "excluido",
+  "motivo": "Mídia bruta, renderização ou intermediário; fora da base documental",
+  "bytes": 32773792,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/project.md",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 3576,
+  "sha256": "e26238bbad97f0a7863de61b48efdf4a695ae6c91b462a9d00bce946dc2b0f95",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/project.md"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/selfeval.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 11036,
+  "sha256": "0daa16849221cda343f1b0207abff0b4aa2f05d8f44b1cd9214b38fc3f471691",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/selfeval.py"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/sound.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 11696,
+  "sha256": "5c76933e6e2147fb8dbaa5806dc8fe3b4fb13b9f5facf994f8c89817efb417bb",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/sound.py"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/transcribe.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 7411,
+  "sha256": "045ec053b8e68b809ae2d897e6807240f0f8a884a4ac2e0e6d3a7fc6bee9326a",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/transcribe.py"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/transcript.json",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 4965,
+  "sha256": "99fb400fc1889f42316ccfca1525a10f5b57ef2ecf4133e3523fd9d7d923cb3f",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/transcript.json"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/transcript.txt",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 444,
+  "sha256": "bb2e2f4a5a310bee1f3f43edeb8847e356fd7e24efb5ca71ba5d65e78290453a",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/transcript.txt"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/animations/captions_cleide.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 25510,
+  "sha256": "12c4167206607806e8eb26e56ad3380b22d1315c6e4c04bb41cb41cc01c7d495",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/animations/captions_cleide.py"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/animations/cleide_cards.py",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 13947,
+  "sha256": "45384a2bf54f9cd280a1448ebae5f2c839ae1f077794eb179689da1f9710e7b4",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/animations/cleide_cards.py"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/assets/.DS_Store",
+  "status": "excluido",
+  "motivo": "Metadado, cache ou log de execução",
+  "bytes": 6148,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/assets/margem_seguranca.jpeg",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 51038,
+  "sha256": "e416d18be40742528bd730a040471399298ffe00471937e83508416df865437c",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/assets/margem_seguranca.jpeg"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/assets/safe_zone_mask.png",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 18391,
+  "sha256": "8d5e01351b28bf37bf4094d183c53a7474d42f12f8b9340bd774e4a21d4cd948",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/assets/safe_zone_mask.png"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/assets/fonts/Prompt-Black.ttf",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 176388,
+  "sha256": "4fbb63f90ce9ea4214461942b521b13f6d2f7194a67de848363d829c3fdf3e66",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/assets/fonts/Prompt-Black.ttf"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/assets/fonts/Prompt-BlackItalic.ttf",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 199068,
+  "sha256": "b1b27215efa6a451c2a1549c5de4c96bb389cf89e86921b3ee488ddb6702e09a",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/assets/fonts/Prompt-BlackItalic.ttf"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/assets/fonts/Prompt-Bold.ttf",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 178804,
+  "sha256": "02813ca4f93c1df27e271f10fef3db6e34e66751ae1f4a3ed82ae06cb20150ea",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/assets/fonts/Prompt-Bold.ttf"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/assets/fonts/Prompt-BoldItalic.ttf",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 186428,
+  "sha256": "d1c26068cd1291d238c04a064e169ce867315aab256bf7bd12cbe0969bb36b3a",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/assets/fonts/Prompt-BoldItalic.ttf"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/assets/fonts/Prompt-ExtraBold.ttf",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 176172,
+  "sha256": "f19ebea740940d6c6eb080d5ede1c78e5e68bd5b1faa34efbac251bb84740100",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/assets/fonts/Prompt-ExtraBold.ttf"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/assets/fonts/Prompt-ExtraBoldItalic.ttf",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 186668,
+  "sha256": "23560ab8e908c1041befa0ac6873fbaa710de6d0ae21bc60c5b2fdedd83eeb86",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/assets/fonts/Prompt-ExtraBoldItalic.ttf"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/assets/fonts/Prompt-Medium.ttf",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 176444,
+  "sha256": "6a42451be692eba473c639f4bcdc6c6d9160a3d632319a64287e3ed1fae15d6b",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/assets/fonts/Prompt-Medium.ttf"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/assets/fonts/Prompt-OFL.txt",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 4452,
+  "sha256": "1d08c63944e639bbfe8a1b81e3c6a63836806c126b3573b9cda0db83fd27ffe9",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/assets/fonts/Prompt-OFL.txt"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/assets/fonts/Prompt-Regular.ttf",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 168932,
+  "sha256": "dbd497803cec3caffbc6b7f599ca6fed8beea0ed7e0ad1e098130c5ebbc4fd42",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/assets/fonts/Prompt-Regular.ttf"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/assets/fonts/Prompt-SemiBold.ttf",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 175300,
+  "sha256": "3285c9e6a4ebc480a6476a1a26b44d6eb0f9874025fa96e42afd52172b7f02b9",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/assets/fonts/Prompt-SemiBold.ttf"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/assets/fonts/Prompt-SemiBoldItalic.ttf",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 185108,
+  "sha256": "f01838c433f60813dfbdcd7f2c935169011298f0d621c318ca8e352d776c8354",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/assets/fonts/Prompt-SemiBoldItalic.ttf"
+  ]
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/cards/00_leak.mov",
+  "status": "excluido",
+  "motivo": "Mídia bruta, renderização ou intermediário; fora da base documental",
+  "bytes": 1004627,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/cards/01_pills.mov",
+  "status": "excluido",
+  "motivo": "Mídia bruta, renderização ou intermediário; fora da base documental",
+  "bytes": 6860916,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/cards/02_leak.mov",
+  "status": "excluido",
+  "motivo": "Mídia bruta, renderização ou intermediário; fora da base documental",
+  "bytes": 1004627,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/cards/index.json",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 780,
+  "sha256": "11e1e0886d464ceb7347e0559cd6bfff0abf9ecd32c4aa665fbbd31fd1bc1086",
+  "destino": [
+   "PROJETOS/2026-11-05 B860 noiva espaco e decoracao/edit/cards/index.json"
+  ]
+ },
+ {
+  "arquivo": "REFERENCIAS/.DS_Store",
+  "status": "excluido",
+  "motivo": "Metadado, cache ou log de execução",
+  "bytes": 6148,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "REFERENCIAS/Margem de segurança.jpeg",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 51038,
+  "sha256": "e416d18be40742528bd730a040471399298ffe00471937e83508416df865437c",
+  "destino": [
+   "REFERENCIAS/Margem de segurança.jpeg"
+  ]
+ },
+ {
+  "arquivo": "REFERENCIAS/padrao_cleide.jpg",
+  "status": "enviado",
+  "motivo": "",
+  "bytes": 499419,
+  "sha256": "225dd87febcd5e9299acd04a3e145898104d32e882e9e6cf8e9477e5521cedfe",
+  "destino": [
+   "REFERENCIAS/padrao_cleide.jpg"
+  ]
+ },
+ {
+  "arquivo": "REFERENCIAS/referencia_legenda.mp4",
+  "status": "excluido",
+  "motivo": "Vídeo de referência de terceiros; fora da base documental",
+  "bytes": 4238452,
+  "sha256": null,
+  "destino": null
+ },
+ {
+  "arquivo": "REFERENCIAS/trilha_6A5B.MOV",
+  "status": "excluido",
+  "motivo": "Trilha de referência da agência (vídeo de 137 MB, acima do limite de 100 MB do GitHub, e licença não confirmada); fora do repositório público",
+  "bytes": 137396791,
+  "sha256": null,
+  "destino": null
+ }
+]

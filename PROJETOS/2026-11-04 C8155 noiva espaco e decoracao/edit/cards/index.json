@@ -1,0 +1,88 @@
+[
+ {
+  "file": "cards/00_leak.mov",
+  "type": "leak",
+  "at": 2.933333333333333,
+  "dur": 0.6000000000000001,
+  "alpha": true,
+  "hide_logo": false,
+  "behind": false,
+  "top": true,
+  "events": []
+ },
+ {
+  "file": "cards/01_pills.mov",
+  "type": "pills",
+  "at": 8.733333333333333,
+  "dur": 3.299999999999999,
+  "alpha": true,
+  "hide_logo": false,
+  "behind": false,
+  "top": false,
+  "events": [
+   {
+    "t": 8.786666666666667,
+    "kind": "tap"
+   },
+   {
+    "t": 9.746666666666668,
+    "kind": "tap"
+   },
+   {
+    "t": 10.866666666666667,
+    "kind": "tap"
+   }
+  ]
+ },
+ {
+  "file": "cards/02_screen.mov",
+  "type": "screen",
+  "at": 13.7,
+  "dur": 3.666666666666668,
+  "alpha": true,
+  "hide_logo": true,
+  "behind": false,
+  "top": false,
+  "events": [
+   {
+    "t": 13.7,
+    "kind": "air"
+   }
+  ]
+ },
+ {
+  "file": "cards/03_leak.mov",
+  "type": "leak",
+  "at": 17.1,
+  "dur": 0.6000000000000014,
+  "alpha": true,
+  "hide_logo": false,
+  "behind": false,
+  "top": true,
+  "events": []
+ },
+ {
+  "file": "cards/04_end.mov",
+  "type": "end",
+  "at": 26.833333333333332,
+  "dur": 2.233333333333338,
+  "alpha": true,
+  "hide_logo": true,
+  "behind": false,
+  "top": false,
+  "events": [
+   {
+    "t": 26.833333333333332,
+    "kind": "air"
+   },
+   {
+    "t": 27.183333333333334,
+    "kind": "chime"
+   },
+   {
+    "t": 28.28333333333333,
+    "kind": "softpop"
+   }
+  ]
+ }
+]

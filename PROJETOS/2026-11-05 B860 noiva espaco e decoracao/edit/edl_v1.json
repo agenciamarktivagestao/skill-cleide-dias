@@ -1,0 +1,211 @@
+{
+ "source": "/Users/agenciamarktiva/Downloads/Cleide Dias/01 ENVIAR AQUI/B860.MOV",
+ "hdr": "auto",
+ "headroom": {
+  "head_src": 330,
+  "head_out": 130,
+  "x": 555
+ },
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.22,
+   "zoom": 1.15,
+   "zoom_to": 1.28,
+   "_nota": "gancho: Noiva! (Cleide, zoom in)"
+  },
+  {
+   "start": 3.97,
+   "end": 6.5333,
+   "broll": true,
+   "anchor": [
+    540,
+    960
+   ],
+   "zoom": 1.0,
+   "zoom_to": 1.06,
+   "trans_in": "blur",
+   "_nota": "noiva (corta o respiro de 0,75 s)"
+  },
+  {
+   "start": 6.5333,
+   "end": 9.2,
+   "broll": true,
+   "anchor": [
+    540,
+    960
+   ],
+   "zoom": 1.06,
+   "zoom_to": 1.0,
+   "trans_in": {
+    "type": "blur",
+    "blur": 11
+   },
+   "_nota": "mesa do bolo"
+  },
+  {
+   "start": 9.2,
+   "end": 12.5333,
+   "broll": true,
+   "anchor": [
+    540,
+    960
+   ],
+   "zoom": 1.0,
+   "zoom_to": 1.07,
+   "trans_in": {
+    "type": "blur",
+    "blur": 11
+   },
+   "_nota": "corredor da cerimônia (lista em pílulas)"
+  },
+  {
+   "start": 12.5333,
+   "end": 15.2333,
+   "broll": true,
+   "anchor": [
+    540,
+    960
+   ],
+   "zoom": 1.07,
+   "zoom_to": 1.0,
+   "trans_in": {
+    "type": "blur",
+    "blur": 11
+   },
+   "_nota": "palco iluminado"
+  },
+  {
+   "start": 15.2333,
+   "end": 17.4667,
+   "broll": true,
+   "anchor": [
+    540,
+    960
+   ],
+   "zoom": 1.0,
+   "zoom_to": 1.06,
+   "trans_in": {
+    "type": "blur",
+    "blur": 11
+   },
+   "_nota": "hall com espelho"
+  },
+  {
+   "start": 17.4667,
+   "end": 18.56,
+   "broll": true,
+   "anchor": [
+    540,
+    960
+   ],
+   "zoom": 1.06,
+   "zoom_to": 1.12,
+   "trans_in": {
+    "type": "blur",
+    "blur": 11
+   },
+   "_nota": "corredor do jardim"
+  },
+  {
+   "start": 19.0,
+   "end": 24.44,
+   "zoom": 1.35,
+   "zoom_to": 1.2,
+   "trans_in": "blur",
+   "_nota": "volta a Cleide no CTA (corta o respiro de 0,44 s), zoom out"
+  },
+  {
+   "start": 24.44,
+   "end": 28.53,
+   "zoom": 1.2,
+   "zoom_to": 1.3,
+   "_nota": "sem corte; zoom in até o fim (sem card final)"
+  }
+ ],
+ "hold": 0,
+ "zoom_ease": 0.5,
+ "captions": {
+  "style": "CLD",
+  "hook_end": 0.75,
+  "script": [
+   "Noiva!",
+   "decoração",
+   "valoriza",
+   "lindas decorações"
+  ],
+  "bold": [
+   "casamento",
+   "diretamente",
+   "considerados",
+   "prática"
+  ],
+  "pills": [
+   "WhatsApp"
+  ],
+  "underline": [
+   "o seu casamento"
+  ],
+  "fix": {
+   "cli": "Clique",
+   "as": "as"
+  },
+  "keep_case": [
+   "WhatsApp"
+  ],
+  "breaks": [
+   1.92,
+   5.44,
+   7.28,
+   15.04,
+   16.4,
+   17.68,
+   20.32,
+   26.733,
+   27.373
+  ],
+  "joins": [
+   24.713
+  ],
+  "shift": [
+   [
+    24.5,
+    24.7,
+    0.14
+   ]
+  ],
+  "words_file": "transcript.json",
+  "skip": []
+ },
+ "cards": [
+  {
+   "type": "leak",
+   "at": 2.95,
+   "dur": 0.6
+  },
+  {
+   "type": "pills",
+   "at": 8.73,
+   "dur": 3.75,
+   "sync": true,
+   "items": [
+    "A entrada",
+    "A cerimônia",
+    "Os pontos de destaque"
+   ]
+  },
+  {
+   "type": "leak",
+   "at": 17.55,
+   "dur": 0.6
+  }
+ ],
+ "music": {
+  "file": "../../../REFERENCIAS/trilha_6A5B.MOV",
+  "db": -18,
+  "end_boost_db": 6
+ },
+ "sfx": "auto",
+ "logo": false,
+ "mute_source": false
+}

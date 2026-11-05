@@ -1,0 +1,390 @@
+{
+ "language": "pt",
+ "engine": "parakeet",
+ "words": [
+  {
+   "word": "Noiva!",
+   "start": 0.16,
+   "end": 0.64,
+   "p": 1.0
+  },
+  {
+   "word": "Você",
+   "start": 0.88,
+   "end": 1.12,
+   "p": 1.0
+  },
+  {
+   "word": "está",
+   "start": 1.12,
+   "end": 1.36,
+   "p": 1.0
+  },
+  {
+   "word": "escolhendo",
+   "start": 1.36,
+   "end": 1.92,
+   "p": 1.0
+  },
+  {
+   "word": "o",
+   "start": 1.92,
+   "end": 2.08,
+   "p": 1.0
+  },
+  {
+   "word": "espaço",
+   "start": 2.08,
+   "end": 2.4,
+   "p": 1.0
+  },
+  {
+   "word": "do",
+   "start": 2.4,
+   "end": 2.56,
+   "p": 1.0
+  },
+  {
+   "word": "seu",
+   "start": 2.56,
+   "end": 2.8,
+   "p": 1.0
+  },
+  {
+   "word": "casamento?",
+   "start": 2.8,
+   "end": 3.36,
+   "p": 1.0
+  },
+  {
+   "word": "Então",
+   "start": 4.0,
+   "end": 4.32,
+   "p": 1.0
+  },
+  {
+   "word": "saiba",
+   "start": 4.56,
+   "end": 5.2,
+   "p": 1.0
+  },
+  {
+   "word": "que",
+   "start": 5.2,
+   "end": 5.44,
+   "p": 1.0
+  },
+  {
+   "word": "o",
+   "start": 5.44,
+   "end": 5.76,
+   "p": 1.0
+  },
+  {
+   "word": "ambiente",
+   "start": 5.76,
+   "end": 6.4,
+   "p": 1.0
+  },
+  {
+   "word": "influencia",
+   "start": 6.4,
+   "end": 7.12,
+   "p": 1.0
+  },
+  {
+   "word": "diretamente",
+   "start": 7.28,
+   "end": 8.16,
+   "p": 1.0
+  },
+  {
+   "word": "a",
+   "start": 8.16,
+   "end": 8.4,
+   "p": 1.0
+  },
+  {
+   "word": "sua",
+   "start": 8.4,
+   "end": 8.72,
+   "p": 1.0
+  },
+  {
+   "word": "decoração.",
+   "start": 8.72,
+   "end": 9.36,
+   "p": 1.0
+  },
+  {
+   "word": "A",
+   "start": 9.52,
+   "end": 9.76,
+   "p": 1.0
+  },
+  {
+   "word": "entrada,",
+   "start": 9.76,
+   "end": 10.32,
+   "p": 1.0
+  },
+  {
+   "word": "a",
+   "start": 10.48,
+   "end": 10.64,
+   "p": 1.0
+  },
+  {
+   "word": "cerimônia",
+   "start": 10.64,
+   "end": 11.44,
+   "p": 1.0
+  },
+  {
+   "word": "e",
+   "start": 11.44,
+   "end": 11.6,
+   "p": 1.0
+  },
+  {
+   "word": "os",
+   "start": 11.6,
+   "end": 11.76,
+   "p": 1.0
+  },
+  {
+   "word": "pontos",
+   "start": 11.76,
+   "end": 12.16,
+   "p": 1.0
+  },
+  {
+   "word": "de",
+   "start": 12.16,
+   "end": 12.32,
+   "p": 1.0
+  },
+  {
+   "word": "destaque",
+   "start": 12.32,
+   "end": 13.12,
+   "p": 1.0
+  },
+  {
+   "word": "precisam",
+   "start": 13.36,
+   "end": 13.84,
+   "p": 1.0
+  },
+  {
+   "word": "ser",
+   "start": 14.0,
+   "end": 14.32,
+   "p": 1.0
+  },
+  {
+   "word": "considerados",
+   "start": 14.32,
+   "end": 14.88,
+   "p": 1.0
+  },
+  {
+   "word": "para",
+   "start": 15.04,
+   "end": 15.28,
+   "p": 1.0
+  },
+  {
+   "word": "criar",
+   "start": 15.28,
+   "end": 15.68,
+   "p": 1.0
+  },
+  {
+   "word": "um",
+   "start": 15.68,
+   "end": 15.84,
+   "p": 1.0
+  },
+  {
+   "word": "projeto",
+   "start": 15.84,
+   "end": 16.4,
+   "p": 1.0
+  },
+  {
+   "word": "que",
+   "start": 16.4,
+   "end": 16.72,
+   "p": 1.0
+  },
+  {
+   "word": "valoriza",
+   "start": 16.72,
+   "end": 17.44,
+   "p": 1.0
+  },
+  {
+   "word": "cada",
+   "start": 17.68,
+   "end": 18.0,
+   "p": 1.0
+  },
+  {
+   "word": "espaço.",
+   "start": 18.0,
+   "end": 18.48,
+   "p": 1.0
+  },
+  {
+   "word": "Quer",
+   "start": 18.8,
+   "end": 19.2,
+   "p": 1.0
+  },
+  {
+   "word": "entender",
+   "start": 19.2,
+   "end": 19.76,
+   "p": 1.0
+  },
+  {
+   "word": "como",
+   "start": 19.76,
+   "end": 20.08,
+   "p": 1.0
+  },
+  {
+   "word": "isso",
+   "start": 20.08,
+   "end": 20.32,
+   "p": 1.0
+  },
+  {
+   "word": "funciona",
+   "start": 20.32,
+   "end": 20.96,
+   "p": 1.0
+  },
+  {
+   "word": "na",
+   "start": 20.96,
+   "end": 21.12,
+   "p": 1.0
+  },
+  {
+   "word": "prática?",
+   "start": 21.12,
+   "end": 21.6,
+   "p": 1.0
+  },
+  {
+   "word": "Cli",
+   "start": 21.84,
+   "end": 22.32,
+   "p": 1.0
+  },
+  {
+   "word": "no",
+   "start": 22.32,
+   "end": 22.36,
+   "p": 1.0
+  },
+  {
+   "word": "WhatsApp",
+   "start": 22.48,
+   "end": 23.44,
+   "p": 1.0
+  },
+  {
+   "word": "e",
+   "start": 23.44,
+   "end": 23.68,
+   "p": 1.0
+  },
+  {
+   "word": "conheça.",
+   "start": 23.68,
+   "end": 24.4,
+   "p": 1.0
+  },
+  {
+   "word": "As",
+   "start": 24.573,
+   "end": 24.813,
+   "p": 1.0
+  },
+  {
+   "word": "lindas",
+   "start": 24.973,
+   "end": 25.453,
+   "p": 1.0
+  },
+  {
+   "word": "decorações",
+   "start": 25.453,
+   "end": 26.093,
+   "p": 1.0
+  },
+  {
+   "word": "que",
+   "start": 26.093,
+   "end": 26.253,
+   "p": 1.0
+  },
+  {
+   "word": "nós",
+   "start": 26.253,
+   "end": 26.413,
+   "p": 1.0
+  },
+  {
+   "word": "temos",
+   "start": 26.413,
+   "end": 26.733,
+   "p": 1.0
+  },
+  {
+   "word": "para",
+   "start": 26.733,
+   "end": 26.893,
+   "p": 1.0
+  },
+  {
+   "word": "levar",
+   "start": 26.893,
+   "end": 27.213,
+   "p": 1.0
+  },
+  {
+   "word": "lá",
+   "start": 27.213,
+   "end": 27.373,
+   "p": 1.0
+  },
+  {
+   "word": "para",
+   "start": 27.373,
+   "end": 27.453,
+   "p": 1.0
+  },
+  {
+   "word": "o",
+   "start": 27.453,
+   "end": 27.613,
+   "p": 1.0
+  },
+  {
+   "word": "seu",
+   "start": 27.613,
+   "end": 27.773,
+   "p": 1.0
+  },
+  {
+   "word": "casamento.",
+   "start": 27.773,
+   "end": 28.413,
+   "p": 1.0
+  }
+ ]
+}

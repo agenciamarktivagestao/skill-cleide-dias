@@ -1,0 +1,48 @@
+[
+ {
+  "file": "cards/00_leak.mov",
+  "type": "leak",
+  "at": 2.933333333333333,
+  "dur": 0.6000000000000001,
+  "alpha": true,
+  "hide_logo": false,
+  "behind": false,
+  "top": true,
+  "events": []
+ },
+ {
+  "file": "cards/01_pills.mov",
+  "type": "pills",
+  "at": 8.733333333333333,
+  "dur": 3.7333333333333325,
+  "alpha": true,
+  "hide_logo": false,
+  "behind": false,
+  "top": false,
+  "events": [
+   {
+    "t": 8.786666666666665,
+    "kind": "tap"
+   },
+   {
+    "t": 9.746666666666666,
+    "kind": "tap"
+   },
+   {
+    "t": 10.866666666666665,
+    "kind": "tap"
+   }
+  ]
+ },
+ {
+  "file": "cards/02_leak.mov",
+  "type": "leak",
+  "at": 17.533333333333335,
+  "dur": 0.6000000000000014,
+  "alpha": true,
+  "hide_logo": false,
+  "behind": false,
+  "top": true,
+  "events": []
+ }
+]
